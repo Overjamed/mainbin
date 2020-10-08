@@ -1,0 +1,14 @@
+#include <overjamed.org.langswiper>
+#include <stdio.h>
+
+class main() {
+  X!NEW LANGUAGE cfg!X
+  >EXECUTE MS-DOS {
+    MS-DOS: {
+      Run : core
+      Run : loader
+      Run : public partial classes
+      ---END---
+    }
+  }
+}
