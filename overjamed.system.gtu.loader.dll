@@ -1,0 +1,8 @@
+for main() {
+Load "OVERJAMED:CORE.sys"
+Load "OVERJAMED:SYSTEM.dll"
+}
+
+class main {
+   startup from JEngine.exe = true!;
+}
