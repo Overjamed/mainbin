@@ -1,0 +1,3 @@
+JD = new FileChecker("JD" type=folder)
+
+JD.load
